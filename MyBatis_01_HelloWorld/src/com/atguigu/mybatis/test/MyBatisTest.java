@@ -12,6 +12,7 @@ import org.junit.Test;
 import com.atguigu.mybatis.bean.Employee;
 import com.atguigu.mybatis.dao.EmployeeMapper;
 
+// 123
 public class MyBatisTest {
 
 	public SqlSessionFactory getSqlSessionFactory() throws IOException {
